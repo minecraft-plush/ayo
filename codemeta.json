@@ -30,5 +30,9 @@
   "relatedLink": [],
   "runtimePlatform": [],
   "softwareRequirements": [],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.115957",
+  "version": "1.0",
+  "dateModified": "2024-10-09",
+  "datePublished": "2024-10-09"
 }
